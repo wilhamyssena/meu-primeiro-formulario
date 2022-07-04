@@ -1,1 +1,2 @@
-# meu-primeiro-formulario
+# Meu primeiro formulario HTML
+Desenvolvimento do meu primeiro formulario pondo em prática o que vi em meus estudos iniciais. Este pequeno projeto é foi desenvolvido basicamente com HTML, CSS e um pouco de JS.
