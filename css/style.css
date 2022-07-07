@@ -48,8 +48,8 @@ main form {
 }
 
 main form .inputs-container {
-    margin-top: 10%;
-    width: 100%;
+    margin-top: 15%;
+    width: 80%;
 
     display: flex;
     flex-direction: column;
@@ -120,7 +120,7 @@ main form button {
     border: 0;
     outline: 0;
     border-radius: 12px;
-    margin-top: 10%;
+    margin-top: 5%;
     font-size: 1.8em;
     font-weight: 600;
     cursor: pointer;
@@ -194,4 +194,29 @@ main form .links-container aside .facebook {
 main form .links-container aside .facebook:hover {
     background-color: #ffb158;
     color: #479db7;
+}
+
+main form footer {
+    width: 100%;
+    margin-top: 3%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+main form footer hr {
+    width: 30%;
+    height:  0.1em;
+    background-color: #0b181c;
+}
+
+main form footer span {
+    font-weight: 400;
+    font-size: 0.9em;
+    margin-top: 1%;
+}
+
+main form footer a:hover {
+    color: #5b3304;
 }
